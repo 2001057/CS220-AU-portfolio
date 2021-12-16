@@ -31,25 +31,25 @@ I have submitted my files, like this:
 <br>
 
 ## Log
-- 2021-12-09 README.md refined with clearer overview.
+- 2021-12-16 Used peer feedback to improve essay
+- 2021-12-09 README.md refined
+- 2021-12-01 Made overview clearer
 - 2021-11-25 based on feedback, refining the essay.
 - 2021-11-18 Experimented with embedding audio and video
-- 2021-11-11 continued with editing website
+- 2021-11-11 continued with editing website 
 - 2021-11-04 started editing index.md
 - 2021-10-30 First essay draft sent
+- 2021-10-24 Finished essay references(APA) and My future digital identity section
 - 2021-10-21 digital identity essay started
 - 2021-10-14 'CS220-AU-portfolio' forked. readme.md refined.
 - 2021-10-07 repo created. readme.md added and next steps in the todo heading defined
 <br>
 
 ## Todo List
-- 2021-12-16 Use peer feedback to improve essay
-- 2021-12-01 Make overview clearer
 - 2021-11-24 read feedback and use it to refine essay
 - 2021-11-19 fix 'refused to connect' with audio and video
 - 2021-11-12 Find picture of Freud and upload essays to github
 - 2021-11-05 Rewrite website template, add information about myself
-- 2021-10-28 Send first draft
 - 2021-10-24 Finish essay by doing references(APA) and My future digital identity section, look at possible questions to write about
 
 <br>
