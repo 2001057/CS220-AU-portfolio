@@ -49,7 +49,7 @@ I have submitted my files, like this:
 <br>
 
 ## Todo List
--Start writing CV and adding it to website
+-Start writing CV and add it to website
 
 <br>
 
